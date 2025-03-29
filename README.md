@@ -56,7 +56,7 @@ The `InventoryRequest` addon for World of Warcraft allows players to scan their 
 
 ## Credits
 
-- **[Your Name]** – Addon Developer
+- **Brian Hazard** – Addon Developer
 
 ---
 
