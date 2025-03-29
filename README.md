@@ -60,7 +60,3 @@ The `InventoryRequest` addon for World of Warcraft allows players to scan their 
 
 ---
 
-## Contact
-
-For support or suggestions, you can reach me via [Your Contact Information].
-
